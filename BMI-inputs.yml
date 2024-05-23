@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/bmi-target---primary.py
+inputModule3:
+  class: File
+  path: python/bmi-index---primary.py
+inputModule4:
+  class: File
+  path: python/normal-bmi---primary.py
+inputModule5:
+  class: File
+  path: python/bmi-baseline---primary.py
+inputModule6:
+  class: File
+  path: python/bmi-centile---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
